@@ -1,7 +1,16 @@
 # ATM-Project
 Created an ATM machine program that simulates the transactions of an everday use case.
 
-User's PIN is ==>  444
+To execute the program, first dowwnload the files.
+Open a terminal and navigate to the folder.
+
+Type:
+./atm.exe
+
+and the program will start. 
+
+
+Also, the User's PIN is ==>  444
 
 
 Have fun
