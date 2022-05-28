@@ -2,7 +2,7 @@
 Created an ATM machine program that simulates the transactions of an everday use case.
 
 To execute the program, first download the files.
-Open a terminal and navigate to the folder.
+Open a terminal and navigate to the downloaded folder.
 
 Type:
 ./atm.exe
