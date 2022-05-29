@@ -1,5 +1,5 @@
-#include <iostream>
-#include <iomanip>
+#include <iostream> //to collect user input (cin >> x)
+#include <iomanip>  //for output manipulation (fixed, setprecision)
 #include "../headers/atm.h"
 
 void atm()
