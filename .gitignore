@@ -31,6 +31,9 @@ g++ -o <execname> <filename> -lxnet compiles a executable named "execname", from
 
 
 
+UPLOADING to github
+open git bash in file location
+
 to view status:
 git status
 
