@@ -1,3 +1,6 @@
+compiled atm.exe by using
+g++ main.cpp ./implementation/atm.cpp -o atm
+
 to compile the code into an executable:
 compile using the g++ compiler
 you can use flags to create a target executable
