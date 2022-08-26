@@ -28,3 +28,19 @@ Linking External Libraries
 Occasionally a library will be needed that is not linked by default
 Use the "-l" option to link in the extra library object code
 g++ -o <execname> <filename> -lxnet compiles a executable named "execname", from a file named "filename", using the library that contains  the object code for sockets (sys/socket.h)
+
+
+
+to view status:
+git status
+
+
+to save changes to git:
+
+git add -A 
+
+git commit 
+
+git push
+
+DONE
